@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0018/WYG/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 分門集註杜工部詩
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 07:56:37.102369'
+  source:
+    repository: kanripo
+    path: KR4c0018/KR4c0018_022.txt
+hash: sha256:a42960c904d2a2f53330238c679301cd057e0b9756e0024bfc1c6f42947b4106

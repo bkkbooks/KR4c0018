@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4c0018/WYG/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 集千家註杜工部詩集巻二十
+  hash: sha256:b3fb1f5497268871832be5dd1ad5e6900393ae75821b384f04c282c4b2125cf2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0018_WYG_020-34b, image: WYG1069/WYG1069-1035d.png}
+metadata:
+  title: 分門集註杜工部詩
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 07:56:37.102369'
+  source:
+    repository: kanripo
+    path: KR4c0018/KR4c0018_026.txt
+hash: sha256:d7e43305d7217159f9a721e14eab0e9acf0bf48c5dca327ad817b1684b36dc96
