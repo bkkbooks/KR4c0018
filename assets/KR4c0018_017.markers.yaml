@@ -1120,6 +1120,7 @@ markers:
       ', id: KR4c0018_krp_017-bkkkrnewl110}
   - {type: line-break, offset: 4628, content: '', id: KR4c0018_SBCK_017-5b02}
   - {type: punctuation, offset: 4628, content: (, id: KR4c0018_krp_017-bkkpn384}
+  - {type: 'voice:problem', offset: 4628, length: 0, id: KR4c0018_bkk_017-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 4628}
   - {type: punctuation, offset: 4643, content: /, id: KR4c0018_krp_017-bkkpn385}
   - {type: variant, offset: 4647, length: 1, content: 𥙷, SBCK: 􅀘}
   - {type: substitution, offset: 4647, original: 𥙷, replacement: 輔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-5439}}
@@ -1133,6 +1134,7 @@ markers:
       ', id: KR4c0018_krp_017-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4c0018_SBCK_017-5b03}
   - {type: indent, offset: 0, content: 　　　　, id: KR4c0018_krp_017-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4c0018_bkk_017-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: punctuation, offset: 7, content: (, id: KR4c0018_krp_017-bkkpn2}
   - {type: substitution, offset: 7, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: substitution, offset: 18, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
@@ -6946,4 +6948,4 @@ markers:
 
       ', id: KR4c0018_krp_017-bkkkrnewl595}
   back: []
-hash: sha256:48dfacd504dec4a373816a3d4ff46930216dd1023d52937c9b530d9f74100211
+hash: sha256:1a42c84e33989e10afd305ebbab5d1fecab5e6cbabd796b8776888f420ae2405
